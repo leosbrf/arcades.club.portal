@@ -1,7 +1,8 @@
 body { background-color: #111111; }
 div {
-  padding: 40px;
-  font-size: 75px;
+  padding: 16px;
+  font-size: 32px;
+  word-spacing: 10px;
   font-family: 'Monoton', cursive;
   text-align: center;
   text-transform: uppercase;
