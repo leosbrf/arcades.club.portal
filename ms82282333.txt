@@ -1,5 +1,0 @@
-﻿{
-  "Description": "Arquivo de verificação de propriedade do domínio para Microsoft 365 local na raiz do site",
-  "Domain": "arcades.club",
-  "Id": "695b93c5-0c1f-4717-8dc5-58a6f5f5e85a"
-}
